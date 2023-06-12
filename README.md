@@ -1,4 +1,4 @@
-## Praktikum 9: Framework Lanjutan (Modul Login)
+## Praktikum 10: Pagination dan Pencarian
 
 Nama: Laela Nur Rohmah
 
